@@ -1,4 +1,5 @@
-# Advance-C#
+# Advance-C Sharp
 
-Software University C# Course
+Software University C Sharp Course
+
 Homework and Labs
